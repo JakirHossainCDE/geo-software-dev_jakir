@@ -11,12 +11,12 @@ All tasks were completed using the **Anaconda Comand Prompt**.
 
 ---
 
-## 📥 1. Acquire Environment Files
+## Step 1: Acquire Environment Files
 
 The provided repository was cloned into my local working directory using the following command:
 ```bash
 
 git clone https://github.com/augustinh22/geo-software-dev.git
 
-![image alt](https://raw.githubusercontent.com/JakirHossainCDE/geo-software-dev_jakir/main/3.PNG)
+![image alt] (https://github.com/JakirHossainCDE/geo-software-dev_jakir/blob/main/3.PNG?raw=true)
 
