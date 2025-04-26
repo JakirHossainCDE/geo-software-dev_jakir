@@ -16,3 +16,5 @@ All tasks were completed using the **Anaconda Comand Prompt**.
 The provided repository was cloned into my local working directory using the following command:
 ```bash
 git clone https://github.com/augustinh22/geo-software-dev.git
+
+![Alt text]([path/to/image.png](https://github.com/JakirHossainCDE/geo-software-dev_jakir/blob/1d5cce27f36913a20ff3e209b6d838fcfe5a69ad/3.PNG))
