@@ -18,8 +18,4 @@ The provided repository was cloned into my local working directory using the fol
 
 git clone https://github.com/augustinh22/geo-software-dev.git
 
-![image](https://github.com/JakirHossainCDE/geo-software-dev_jakir/blob/main/3.PNG?raw=true)
-
-![image](https://github.com/user-attachments/assets/ad4a4f0f-6588-46e4-acc2-a0b3fc854c13)
-
-<img src="https://github.com/JakirHossainCDE/geo-software-dev_jakir/blob/main/3.PNG?raw=true" width="600px" height="auto" />
+![Image Alt](https://github.com/JakirHossainCDE/geo-software-dev_jakir/blob/1d5cce27f36913a20ff3e209b6d838fcfe5a69ad/3.PNG)
