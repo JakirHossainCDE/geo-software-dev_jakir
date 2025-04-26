@@ -25,9 +25,18 @@ First Environment
 
 ![Image Alt](https://github.com/JakirHossainCDE/geo-software-dev_jakir/raw/9526d5f4e7496f803ab4d010e58477e7551fbe41/4.PNG)
 
-Activated Environment and Content List 
+Activated First Environment and Content List 
 
 ![Image Alt](https://github.com/JakirHossainCDE/geo-software-dev_jakir/blob/0bc37b26217d09168133943fcdc95312b4b09117/5.PNG)
+
+
+Second Environment
+
+![Image Alt](https://github.com/JakirHossainCDE/geo-software-dev_jakir/raw/ba8551574617c511fee312977c0b277a53bb4cd8/6.PNG)
+
+Activated Second Environment and Content List 
+
+![Image Alt](https://github.com/JakirHossainCDE/geo-software-dev_jakir/raw/ba8551574617c511fee312977c0b277a53bb4cd8/7.PNG)
 
 
 
