@@ -18,3 +18,11 @@ The provided repository was cloned into my local working directory using the fol
 
 ![Image Alt](https://github.com/JakirHossainCDE/geo-software-dev_jakir/raw/1d5cce27f36913a20ff3e209b6d838fcfe5a69ad/3.PNG)
 
+## Step 2: Recreate both environments
+This was done by the following command line
+
+First Environment
+
+![Image Alt](https://github.com/JakirHossainCDE/geo-software-dev_jakir/raw/9526d5f4e7496f803ab4d010e58477e7551fbe41/4.PNG)
+
+
